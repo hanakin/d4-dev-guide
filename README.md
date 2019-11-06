@@ -1,4 +1,4 @@
-# Diablo IV Development Guide
+# Diablo IV Game Development Guide
 Community curated game dev outlines for Blizzard's Diablo IV
 
 The intent of this repo is to house detailed outlines for alll the various aspects of Diablo IV. The intent being that the community can provide and vote on changes to each feature to help guide the Developers in making decisions to end up with the game we want and deserve.
