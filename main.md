@@ -1,4 +1,4 @@
-# Lets Make Diablo Great Again
+# Lets Make Diablo Great for Years to Come!
 
 ### Preface
 Blizzard said they are looking to be more open and interactive going forward with the development of Diablo IV. If this is true lets put the community to work facilitating this.
