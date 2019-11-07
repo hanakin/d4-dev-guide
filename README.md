@@ -7,7 +7,7 @@ The intent of this repo is to house detailed outlines for alll the various featu
 
 Each aspect of the game will have a file dedicated to outlining the requirments for a feature nessecary with detailed descriptions, comparisons, examples and suggestions.
 
-- There is will be a **MAIN** forum post containing a compiled post of all the content generated in this repo which is duplicated on reddit. 
+- There is a **MAIN** forum post containing a compiled post of all the content generated in this repo which is duplicated on reddit. 
 - Each feature will have a dedicated reddit post for disscussing it.
 - The post will contain the current contents of the toipc file and be kept uptodate with the contents of this repo.
 - The **MAIN** post will link to each of these individual feature redit posts. As such the reddit posts will each link to the source file in this repo as well as the **MAIN** post. 
